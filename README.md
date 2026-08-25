@@ -1,7 +1,9 @@
 ## 👋 Olá, eu sou o Lucas
 
 💻 Desenvolvedor Full Stack em formação;
+
 🎓 Estudante do Curso Técnico em Informática na **ULBRA**, em fase final;
+
 🚀 Em busca de estágio ou primeira oportunidade na área de desenvolvimento.
 
 ---
