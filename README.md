@@ -56,7 +56,7 @@ Alguns dos projetos que já desenvolvi:
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-978307280)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./curriculo.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculo_Lucas_Santos_atualizado.pdf)
 
 ---
 
