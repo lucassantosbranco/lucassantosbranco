@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Lucas
 
-💻 Desenvolvedor Full Stack em formação, com foco em **Android (Java)**;
+💻 Desenvolvedor Full Stack em formação;
 🎓 Estudante do Curso Técnico em Informática na **ULBRA**, em fase final;
 🚀 Em busca de estágio ou primeira oportunidade na área de desenvolvimento.
 
@@ -58,4 +58,3 @@ Alguns dos projetos que já desenvolvi:
 
 ---
 
-*⭐ Sempre em busca de evolução e novos desafios.*
