@@ -11,7 +11,7 @@
 ## 🧠 Sobre mim
 
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.
-Atualmente foco em desenvolvimento **Full Stack** e **Android**, criando aplicações funcionais e bem estruturadas em Java.
+Atualmente foco em desenvolvimento **Full Stack** e **Suporte Técnico**, criando aplicações funcionais e bem estruturadas em Java.
 Tenho como objetivo evoluir cada vez mais e conquistar minha primeira oportunidade profissional na área.
 
 ---
